@@ -1,10 +1,6 @@
-<!-- Banner Gótico com Névoa -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/main/assets/Copilot_20260527_165644.png" alt="Pammy Gothic Banner"/>
-</p>
 
 <!-- Badges -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Developer-1a001a?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/Creative-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%23-1a001a?style=for-the-badge&logo=csharp&logoColor=8A2BE2"/>
