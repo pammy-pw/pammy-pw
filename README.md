@@ -45,11 +45,10 @@
 
 ---
 
-## 🎶 Spotify
+## 🐱 Pixel Cat
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=miyukiichikawablood&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false"/>
+  <img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/main/assets/pixel_cat_running.gif" alt="Pixel Cat Running"/>
 </p>
-
 
 ---
 
