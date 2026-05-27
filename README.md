@@ -1,6 +1,6 @@
-<!-- Banner Gótico -->
+<!-- Banner Gótico com Névoa -->
 <p align="center">
-  <img src="https://https://copilot.microsoft.com/th/id/BCO.aec20029-175f-4166-ace8-9956f9f91ac7.png" alt="Pammy Gothic Banner"/>
+  <img src="https://raw.githubusercontent.com/pammy-pw/assets/main/banner_gothic_roxo.gif" alt="Pammy Gothic Banner"/>
 </p>
 
 <!-- Badges -->
@@ -40,3 +40,17 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
+</p>
+
+---
+
+## 🎶 Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false"/>
+</p>
+
+---
+
+## 📌 Pinned Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pammy-pw&repo=pammy-pw&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2)](https://github.com/pammy-pw/pammy-pw)
