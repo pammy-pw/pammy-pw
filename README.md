@@ -36,11 +36,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-pammy.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2&icon_color=8A2BE2"/>
+  <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2&icon_color=8A2BE2"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-pammy.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
+  <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
 </p>
 
 ---
@@ -53,4 +53,4 @@
 ---
 
 ## 📌 Pinned Repo
-[![ReadMe Card](https://github-readme-stats-pammy.vercel.app/api/pin/?username=pammy-pw&repo=pammy-pw&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2)](https://github.com/pammy-pw/pammy-pw)
+[![ReadMe Card](https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/pin/?username=pammy-pw&repo=pammy-pw&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2)](https://github.com/pammy-pw/pammy-pw)
