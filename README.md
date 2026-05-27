@@ -1,9 +1,7 @@
 <!-- Banner Gótico com Névoa -->
-<!-- Banner Gótico com Névoa -->
 <p align="center">
-  <img src="https://github.com/pammy-pw/pammy-pw/blob/main/assets/Copilot_20260527_165644.png" alt="Pammy Gothic Banner"/>
+  <img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/main/assets/Copilot_20260527_165644.png" alt="Pammy Gothic Banner"/>
 </p>
-
 
 <!-- Badges -->
 <p align="center">
@@ -38,13 +36,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2&icon_color=8A2BE2"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2&icon_color=8A2BE2"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
 </p>
 
 ---
