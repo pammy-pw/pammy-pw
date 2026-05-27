@@ -9,7 +9,7 @@
 ---
 
 ## Sobre Mim / About Me
-<p align="center">
+<p align="left">
   Sou uma pessoa em constante evolução, focada em crescimento pessoal e profissional na área de tecnologia. Tenho interesse especial em desenvolvimento de sistemas e estou sempre buscando aprender novas habilidades para me tornar uma desenvolvedora mais preparada e confiante.
 
 Gosto de desafios e de entender como as coisas funcionam por trás da tecnologia. Apesar de ainda estar construindo minha trajetória, valorizo muito o aprendizado contínuo e a disciplina para melhorar um pouco todos os dias.
