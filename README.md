@@ -1,9 +1,10 @@
-Hi there, I'm Pammy 👋
+Hi there, I'm Pammy!!!!!!!!!!
 
 <p align="center">
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663309291142/jNiOXMYakGvVmRex.png" width="100%" alt="Pammy Gothic Banner" />
 </p> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&width=435&lines=Developer+·+Creative+·+Learner;C%23+Developer;Exploring+the+Digital+World" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Developer-Creative-22d3ee?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-Developer-FB7A24?style=for-the-badge" />
 </p> <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pammy-pw&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pammy-pw?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github&label=FOLLOWERS" alt="Followers" />
@@ -15,7 +16,8 @@ Hi there, I'm Pammy 👋
 { WHOAMI }
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400px" alt="GitHub Stats" />
+<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Brazil-blue?style=flat-square" />
 </p>
 
 
@@ -26,16 +28,20 @@ Hi there, I'm Pammy 👋
 <p align="center">
 <b>◆ Languages & Dev Tools ◆</b>  
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode,visualstudio,linux,figma,mirro,teams&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p> <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </p> <p align="center">
   <b>◆ Database & Server ◆</b>  
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="50px" />
-  </a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 
@@ -44,8 +50,9 @@ Hi there, I'm Pammy 👋
 { GITHUB STATS }
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammy-pw&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<!-- Usando uma versão mais estável das estatísticas -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
@@ -54,8 +61,9 @@ Hi there, I'm Pammy 👋
 { SPOTIFY }
 
 <p align="center">
-<a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_UID_AQUI&cover_image=true&theme=dark&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
+<!-- Link alternativo para o Spotify que é mais resiliente -->
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://novatorem-spotify.vercel.app/api/view?uid=miyukiichikawablood&theme=dark" alt="Spotify" />
   </a>
 </p>
 
@@ -65,7 +73,4 @@ Hi there, I'm Pammy 👋
 <p align="center">
 <sub>PAMMY-PW · Developer · Creator · Learner</sub>
 </p>
-
-
-
 
