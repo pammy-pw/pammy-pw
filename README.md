@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2&icon_color=8A2BE2"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
 </p>
 
