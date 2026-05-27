@@ -12,15 +12,13 @@
 
 <p align="left">
 
-🚀 Sou uma pessoa em constante evolução, focada em crescimento pessoal e profissional na área de tecnologia. Tenho interesse especial em desenvolvimento de sistemas e estou sempre buscando aprender novas habilidades para me tornar uma desenvolvedora mais preparada e confiante.
+Sou uma profissional em formação na área de Tecnologia da Informação, com foco em desenvolvimento de sistemas. Estou em constante aprimoramento técnico e pessoal, buscando adquirir novas competências que me permitam evoluir como desenvolvedora.
 
-💡 Gosto de desafios e de entender como as coisas funcionam por trás da tecnologia. Apesar de ainda estar construindo minha trajetória, valorizo muito o aprendizado contínuo e a disciplina para melhorar um pouco todos os dias.
+Tenho interesse em entender profundamente a lógica por trás das tecnologias e em construir soluções eficientes e bem estruturadas. Valorizo o aprendizado contínuo, a disciplina e a evolução gradual como base da minha trajetória profissional.
 
-🎼 Também tenho interesses fora da programação, como música clássica e ópera, que me ajudam a manter foco e equilíbrio.
+Além da área de tecnologia, tenho interesse por música clássica e ópera, atividades que contribuem para concentração e equilíbrio no dia a dia.
 
-🐱 No meu dia a dia, convivo com minha gata Irelia, que sempre traz leveza para minha rotina.
-
-🌍 Meu objetivo é crescer na área de TI e, no futuro, construir uma carreira internacional como desenvolvedora de sistemas.
+Meu objetivo é desenvolver uma carreira sólida na área de TI, com perspectiva de atuação internacional como desenvolvedora de sistemas.
 
 </p>
 
