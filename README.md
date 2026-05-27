@@ -45,7 +45,7 @@
 
 ---
 
-## 🐱 Pixel Cat
+## Meow??
 <p align="center">
   <img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/main/assets/pixel_cat_running.gif" alt="Pixel Cat Running"/>
 </p>
