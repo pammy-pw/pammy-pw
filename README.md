@@ -1,7 +1,7 @@
 <!-- Banner Gótico com Névoa -->
 <!-- Banner Gótico com Névoa -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pammy-pw/assets/main/banner_gothic_roxo.gif" alt="Pammy Gothic Banner"/>
+  <img src="https://github.com/pammy-pw/pammy-pw/blob/main/assets/Copilot_20260527_165644.png" alt="Pammy Gothic Banner"/>
 </p>
 
 
