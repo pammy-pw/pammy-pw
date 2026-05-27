@@ -1,6 +1,6 @@
 name: GitHub Metrics e Spotify
 
-on: 
+on:
   schedule:
     - cron: "0 * * * *" # executa a cada hora
   workflow_dispatch:
