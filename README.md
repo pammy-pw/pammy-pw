@@ -1,9 +1,9 @@
 Hi there, I'm Pammy 👋
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PAMMY-PW&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" />
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663309291142/jNiOXMYakGvVmRex.png" width="100%" alt="Pammy Gothic Banner" />
 </p> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&width=435&lines=Developer+·+Creative+·+Learner;Exploring+the+Digital+World;Listening+to+Spotify+right+now..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&width=435&lines=Developer+·+Creative+·+Learner;C%23+Developer;Exploring+the+Digital+World" alt="Typing SVG" />
 </p> <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pammy-pw&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pammy-pw?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github&label=FOLLOWERS" alt="Followers" />
@@ -15,7 +15,7 @@ Hi there, I'm Pammy 👋
 { WHOAMI }
 
 <p align="center">
-<img src="https://github-readme-terminal.vercel.app/api?user=pammy-pw&theme=dark" alt="Terminal Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400px" alt="GitHub Stats" />
 </p>
 
 
@@ -27,13 +27,14 @@ Hi there, I'm Pammy 👋
 <b>◆ Languages & Dev Tools ◆</b>  
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,vscode,linux,docker,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode,visualstudio,linux,figma,mirro,teams&theme=dark" />
   </a>
 </p> <p align="center">
-  <b>◆ Operating Systems ◆</b>  
+  <b>◆ Database & Server ◆</b>  
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="50px" />
   </a>
 </p>
 
@@ -43,10 +44,8 @@ Hi there, I'm Pammy 👋
 { GITHUB STATS }
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p> <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammy-pw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammy-pw&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 
@@ -66,4 +65,7 @@ Hi there, I'm Pammy 👋
 <p align="center">
 <sub>PAMMY-PW · Developer · Creator · Learner</sub>
 </p>
+
+
+
 
