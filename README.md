@@ -1,76 +1,69 @@
+Hi there, I'm Pammy 👋
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=PAMELA%20LEMOS&fontSize=70&fontColor=00FF41&animation=twinkling" alt="Matrix Header" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PAMMY-PW&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" />
 </p> <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=430&lines=DEVELOPER+IN+PROGRESS;CYBERSECURITY+STUDENT;TECH+ENTHUSIAST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&width=435&lines=Developer+·+Creative+·+Learner;Exploring+the+Digital+World;Listening+to+Spotify+right+now..." alt="Typing SVG" />
+</p> <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pammy-pw&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pammy-pw?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github&label=FOLLOWERS" alt="Followers" />
 </p>
 
 
 
 
-📊 ESTATÍSTICAS DO GITHUB
+{ WHOAMI }
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=matrix&hide_border=true" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=matrix&hide_border=true" alt="Linguagens" />
+<img src="https://github-readme-terminal.vercel.app/api?user=pammy-pw&theme=dark" alt="Terminal Stats" />
 </p>
 
 
 
 
-👤 SOBRE MIM
-
-
-Dev em formação apaixonada por tecnologia. Atualmente estudando C# e construindo minha jornada em DevOps, Cloud e Segurança.
-
-•
-🔭 Atualmente: Aprimorando minhas habilidades de codificação.
-
-•
-🌱 Estudando: Novas tecnologias e frameworks.
-
-•
-💬 Dúvidas? Pode me perguntar sobre desenvolvimento!
-
-•
-📫 LinkedIn: pamela-lemos-11a04720b
-
-
-
-
-🐍 CONTRIBUTION SNAKE
+{ TECH STACK }
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
-</p>
+<b>◆ Languages & Dev Tools ◆</b>  
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,vscode,linux,docker,figma&theme=dark" />
+  </a>
+</p> <p align="center">
+  <b>◆ Operating Systems ◆</b>  
 
-
-
-🔥 STREAK & 🎵 SPOTIFY
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pammy-pw&theme=matrix-dark&hide_border=true" alt="Streak" />
-    
-  
-
-  <a href="https://open.spotify.com/user/miyukiichikawablood">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=miyukiichikawablood&cover_image=true&theme=compact" alt="Spotify" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
   </a>
 </p>
 
 
 
 
-💻 TECH STACK
+{ GITHUB STATS }
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,aws,docker,git,github,html,css,js,mysql&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p> <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammy-pw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+
+
+{ SPOTIFY }
+
+<p align="center">
+<a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_UID_AQUI&cover_image=true&theme=dark&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 
 
 
 <p align="center">
-<b>📧 Email:</b> Paoli.lemos@gmail.com | <b>📍 Localização:</b> São Paulo, Brasil
+<sub>PAMMY-PW · Developer · Creator · Learner</sub>
 </p>
 
