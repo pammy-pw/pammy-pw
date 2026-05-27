@@ -25,10 +25,7 @@ Sou um desenvolvedor apaixonado, sempre ansioso para aprender e construir coisas
 <p align="center">
 <a href="https://github.com/pammy-pw">
     <img src="https://img.shields.io/github/followers/[SEU_USUARIO_GITHUB]?style=social" alt="Seguidores no GitHub" />
-  </a>
-  <a href="https://discord.com/sedductil">
-    <img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO_GITHUB]&color=brightgreen" alt="Visualizações do Perfil" />
-  </a>
+
   <a href="https://www.linkedin.com/in/pamela-lemos-11a04720b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
