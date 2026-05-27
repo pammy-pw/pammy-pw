@@ -1,76 +1,56 @@
-Hi there, I'm Pammy!!!!!!!!!!
-
+<!-- Banner -->
 <p align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663309291142/jNiOXMYakGvVmRex.png" width="100%" alt="Pammy Gothic Banner" />
-</p> <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Creative-22d3ee?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%23-Developer-FB7A24?style=for-the-badge" />
-</p> <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pammy-pw&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pammy-pw?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Pammy&fontSize=60&fontColor=8A2BE2&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-
-
-
-{ WHOAMI }
-
+<!-- Badges -->
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Location-Brazil-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=8A2BE2"/>
 </p>
 
+---
 
+## 👩‍💻 WHOAMI
+- Status: **Online**
+- Location: **Brazil**
+- Passion: **Code + Design**
 
+---
 
-{ TECH STACK }
-
+## ⚙️ Tech Stack
 <p align="center">
-<b>◆ Languages & Dev Tools ◆</b>  
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</p> <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</p> <p align="center">
-  <b>◆ Database & Server ◆</b>  
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=csharp,sql,linux,vscode,visualstudio,figma,git"/>
 </p>
 
+---
 
-
-
-{ GITHUB STATS }
-
+## 🗄️ Database & Server
 <p align="center">
-<!-- Usando uma versão mais estável das estatísticas -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=orange"/>
 </p>
 
+---
 
-
-
-{ SPOTIFY }
-
+## 📊 GitHub Stats
 <p align="center">
-<!-- Link alternativo para o Spotify que é mais resiliente -->
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://novatorem-spotify.vercel.app/api/view?uid=miyukiichikawablood&theme=dark" alt="Spotify" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2"/>
 </p>
 
-
-
-
 <p align="center">
-<sub>PAMMY-PW · Developer · Creator · Learner</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2"/>
 </p>
 
+---
+
+## 🎶 Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false"/>
+</p>
+
+---
+
+## 📌 Pinned Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pammy-pw&repo=pammy-pw&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2)](https://github.com/pammy-pw/pammy-pw)
