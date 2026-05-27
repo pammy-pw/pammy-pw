@@ -1,6 +1,6 @@
 <!-- Banner Gótico -->
 <p align="center">
-  <img src="https://YOUR_BANNER_LINK_HERE" alt="Pammy Gothic Banner"/>
+  <img src="https://https://copilot.microsoft.com/th/id/BCO.aec20029-175f-4166-ace8-9956f9f91ac7.png" alt="Pammy Gothic Banner"/>
 </p>
 
 <!-- Badges -->
