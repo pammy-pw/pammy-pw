@@ -45,11 +45,3 @@ Meu objetivo é desenvolver uma carreira sólida na área de TI, com perspectiva
 <p align="left">
   <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
 </p>
-
-
-
-
----
-
-## 📌 Pinned Repo
-[![ReadMe Card](https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/pin/?username=pammy-pw&repo=pammy-pw&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2)](https://github.com/pammy-pw/pammy-pw)
