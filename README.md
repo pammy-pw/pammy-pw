@@ -48,12 +48,8 @@ Meu objetivo é desenvolver uma carreira sólida na área de TI, com perspectiva
   <img src="https://github-readme-stats-one-livid-x3233x93ej.vercel.app/api/top-langs/?username=pammy-pw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d001a&title_color=8A2BE2"/>
 </p>
 
----
 
-## Meow??
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pammy-pw/pammy-pw/main/assets/pixel_cat_running.gif" alt="Pixel Cat Running"/>
-</p>
+
 
 ---
 
