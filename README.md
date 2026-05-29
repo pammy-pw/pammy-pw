@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/C%23-1a001a?style=for-the-badge&logo=csharp&logoColor=8A2BE2"/>
 </p>
 
----
-
 ## 👩‍💻 Sobre Mim / About Me
 
 <p align="left">
