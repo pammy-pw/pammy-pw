@@ -1,6 +1,18 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:0d1117&height=180&section=header&text=Welcome%20to%20Pamela's%20Github&fontSize=32&fontColor=39d353&fontAlignY=45&desc=%3C%20/%20%3E&descAlignY=65&descSize=18&descColor=6e7681)
+<svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0e4429"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg)" rx="10"/>
+  <text x="400" y="75" font-family="monospace" font-size="28" font-weight="bold" fill="#39d353" text-anchor="middle">Welcome to Pamela's Github</text>
+  <text x="400" y="110" font-family="monospace" font-size="16" fill="#6e7681" text-anchor="middle">&lt; Systems Developer in Progress /&gt;</text>
+  <text x="400" y="140" font-family="monospace" font-size="12" fill="#0e4429" text-anchor="middle">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+</svg>
 
 </div>
 
@@ -10,9 +22,9 @@
 
 ### 🔗 Connect with me
 
-[![About Me](https://img.shields.io/badge/▲%20ABOUT%20ME-0d1117?style=flat-square&logoColor=39d353&color=0d1117&labelColor=0e4429)](https://github.com/pammy-pw)
-[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=39d353&color=0d1117&labelColor=0e4429)](https://linkedin.com/in/pammy-pw)
-[![GitHub](https://img.shields.io/badge/⌥%20GITHUB-0d1117?style=flat-square&logo=github&logoColor=39d353&color=0d1117&labelColor=0e4429)](https://github.com/pammy-pw)
+[![About Me](https://img.shields.io/badge/▲%20ABOUT%20ME-0e4429?style=flat-square&logoColor=39d353)](https://github.com/pammy-pw)
+[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN-0e4429?style=flat-square&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/pammy-pw)
+[![GitHub](https://img.shields.io/badge/⌥%20GITHUB-0e4429?style=flat-square&logo=github&logoColor=39d353)](https://github.com/pammy-pw)
 
 </div>
 
@@ -105,7 +117,5 @@ Focused on clean, readable code and structured problem-solving.
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=pammy-pw&color=39d353&style=flat-square&label=profile+views)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=80&section=footer)
 
 </div>
