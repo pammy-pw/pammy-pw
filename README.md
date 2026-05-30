@@ -75,6 +75,6 @@ Focused on clean, readable code and structured problem-solving.
 
 <br>
 
-<img src="./thanks.png" width="800"/>
+<img src="./download.png" width="800"/>
 
 </div>
