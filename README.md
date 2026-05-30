@@ -79,39 +79,6 @@ Focused on clean, readable code and structured problem-solving.
 
 <div align="center">
 
-### Statistics
-
-**Pamela's GitHub Stats**
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pammy-pw&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=6e7681&ring_color=39d353&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammy-pw&layout=donut&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=6e7681"/>
-
-</div>
-
----
-
-<div align="center">
-
-🔥 **Contribution Streak**
-
-[![Streak](https://streak-stats.demolab.com?user=pammy-pw&theme=github-dark-green&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=6e7681&dates=6e7681&stroke=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-📊 **Contribution Graph**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pammy-pw&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0e4429&hide_border=true&custom_title=Pamela's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 <sub><code>// "Todo dia é um dia de evolução." — @pammy-pw</code></sub>
 
 <br>
