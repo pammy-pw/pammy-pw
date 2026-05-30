@@ -85,4 +85,8 @@ Focused on clean, readable code and structured problem-solving.
 
 ![views](https://komarev.com/ghpvc/?username=pammy-pw&color=39d353&style=flat-square&label=profile+views)
 
+<br>
+
+<img src="./download.png" width="800"/>
+
 </div>
