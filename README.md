@@ -1,18 +1,6 @@
 <div align="center">
 
-<svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0e4429"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="160" fill="url(#bg)" rx="10"/>
-  <text x="400" y="75" font-family="monospace" font-size="28" font-weight="bold" fill="#39d353" text-anchor="middle">Welcome to Pamela's Github</text>
-  <text x="400" y="110" font-family="monospace" font-size="16" fill="#6e7681" text-anchor="middle">&lt; Systems Developer in Progress /&gt;</text>
-  <text x="400" y="140" font-family="monospace" font-size="12" fill="#0e4429" text-anchor="middle">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
-</svg>
+<img src="./welcomegithub.png" width="800"/>
 
 </div>
 
@@ -87,6 +75,6 @@ Focused on clean, readable code and structured problem-solving.
 
 <br>
 
-<img src="./download.png" width="800"/>
+<img src="./thanks.png" width="800"/>
 
 </div>
