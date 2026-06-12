@@ -11,7 +11,7 @@
 ### 🔗 Connect with me
 
 [![About Me](https://img.shields.io/badge/▲%20ABOUT%20ME-0e4429?style=flat-square&logoColor=39d353)](https://github.com/pammy-pw)
-[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN-0e4429?style=flat-square&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/pammy-pw)
+[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN-0e4429?style=flat-square&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/pamela-lemos-11a04720b/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/⌥%20GITHUB-0e4429?style=flat-square&logo=github&logoColor=39d353)](https://github.com/pammy-pw)
 
 </div>
@@ -72,6 +72,10 @@ Focused on clean, readable code and structured problem-solving.
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=pammy-pw&color=39d353&style=flat-square&label=profile+views)
+
+<div align="center">
+  <img src="(https://tenor.com/view/cat-gif-13043798271220344810)" width="200"/>
+</div>
 
 <br>
 
